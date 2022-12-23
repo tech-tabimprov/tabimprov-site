@@ -1,0 +1,6 @@
+/bin/
+/node_modules/
+.DS_Store
+.git-credentials
+wordpress-keypair*
+playbook_rendered.yml

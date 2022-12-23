@@ -1,0 +1,7 @@
+encryptionsalt: v1:VzEhnk/bE7Y=:v1:XEsflqnFWUs2oTE7:I2SHdVrqY1hrutqkgwzP1YGEEeo/Mw==
+config:
+  aws:region: eu-west-1
+  tabimprov-site:dbPassword:
+    secure: v1:45dxdts4m6XPWW+K:5F6c+Pc99N3xBOPOJ+dKn8eKyqhAJVE3uBY9VPzl+EeWnStLppXokWU=
+  tabimprov-site:privateKeyPath: wordpress-keypair
+  tabimprov-site:publicKeyPath: wordpress-keypair.pub
